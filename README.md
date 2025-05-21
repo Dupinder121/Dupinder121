@@ -1,4 +1,4 @@
-# 💻 Dupinder Singh
+##  Dupinder Singh
 
 Hi there! I'm **Dupinder Singh**, a Computer Science undergraduate specializing in **IoT**, **Cybersecurity**, and **Blockchain Technology**.
 
@@ -6,7 +6,7 @@ I'm an aspiring **Network Engineer** and **Cybersecurity Expert**, passionate ab
 
 ---
 
-## 🧰 Tech Skills
+##  Tech Skills
 
 - 🖥️ **Operating Systems**: Windows, Debian Linux, Arch Linux  
 - 🛠️ **Skills**: Hardware Troubleshooting, Software Troubleshooting (Windows), Virtualization (VMware, VirtualBox)  
@@ -14,7 +14,7 @@ I'm an aspiring **Network Engineer** and **Cybersecurity Expert**, passionate ab
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Network Infrastructure & Security  
 - Linux Systems Administration  
@@ -22,7 +22,7 @@ I'm an aspiring **Network Engineer** and **Cybersecurity Expert**, passionate ab
 
 ---
 
-## 🔭 Future Goals
+##  Future Goals
 
 - Gain hands-on experience with **RHEL** and **OpenSUSE**  
 - Earn certifications in **Network+**, **Security+**, or **CCNA**  
@@ -30,7 +30,7 @@ I'm an aspiring **Network Engineer** and **Cybersecurity Expert**, passionate ab
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - GitHub: [@DupinderSingh](https://github.com/DupinderSingh)  
 - LinkedIn: [Dupinder Singh](https://www.linkedin.com/in/dupinder-singh-2aab59363/)
