@@ -1,4 +1,4 @@
-##  Dupinder Singh
+##  Introduction
 
 Hi there! I'm **Dupinder Singh**, a Computer Science undergraduate specializing in **IoT**, **Cybersecurity**, and **Blockchain Technology**.
 
@@ -8,8 +8,8 @@ I'm an aspiring **Network Engineer** and **Cybersecurity Expert**, passionate ab
 
 ##  Tech Skills
 
-- 🖥️ **Operating Systems**: Windows, Debian Linux, Arch Linux  
-- 🛠️ **Skills**: Hardware Troubleshooting, Software Troubleshooting (Windows), Virtualization (VMware, VirtualBox)  
+-  **Operating Systems**: Windows, Debian Linux, Arch Linux  
+-  **Skills**: Hardware Troubleshooting, Software Troubleshooting (Windows), Virtualization (VMware, VirtualBox)  
 - 🖧 **Interest Areas**: Networking, Servers, Cybersecurity
 
 ---
